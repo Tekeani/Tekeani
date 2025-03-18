@@ -1,4 +1,4 @@
-# Marie Marchal - Développeuse Web et Mobile en Reconversion Professionnelle
+# Marie Marchal - Développeuse Web et Mobile en reconversion professionnelle
 
 Bonjour ! Je m'appelle **Marie Marchal** et je suis actuellement en reconversion professionnelle en tant que développeuse fullstack. Je suis en formation à **Ada Tech School**, une école de développement web et mobile inclusive et Montessori, qui met un accent particulier sur l'accessibilité, les bonnes pratiques de code et le travail en équipe.
 
